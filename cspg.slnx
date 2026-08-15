@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="lvl01x01_HelloWorld/lvl01x01_HelloWorld.csproj" />
+  <Project Path="lvl02x01_WhatComesNext/lvl02x01_WhatComesNext.csproj" />
+  <Project Path="lvl02x02_MakingsOfAProgrammer/lvl02x02_MakingsOfAProgrammer.csproj" />
+  <Project Path="lvl02x03_Inputs/lvl02x03_Inputs.csproj" />
+  <Project Path="lvl03x01_DecompiledGem/lvl03x01_DecompiledGem.csproj" />
+</Solution>

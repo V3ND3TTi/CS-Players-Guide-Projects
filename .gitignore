@@ -1,0 +1,59 @@
+# ==========================================
+#  C# Git Ignore Blueprint
+# ==========================================
+
+# --- .NET Build & Output Directories ---
+[Bb]in/
+[Oo]bj/
+[out]/
+[log]/
+
+# --- JetBrains Rider Specific ---
+# Rider workspace configuration and user-specific layout data
+.idea/
+*.sln.iml
+*.csproj.iml
+*.user
+*.csproj.user
+*.sln.user
+*.idea.IdeaWin32/
+
+# --- Visual Studio Specific ---
+# VS cache, compiler state, and user settings
+.vs/
+*.suo
+*.userosscache
+*.sln.docstate
+*.suo.template
+Anlistats.txt
+
+# --- Visual Studio Code Specific ---
+.vscode/
+# Keep essential shared launch configs if needed (optional)
+!.vscode/launch.json
+!.vscode/tasks.json
+
+# --- Operating System Files ---
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# --- User & Local Environment Secrets ---
+*.user
+*.username
+*.user_settings
+secrets.json
+.env
+.env.*
+
+# --- Compilation Artifacts & Temp Files ---
+*.tmp
+*.log
+*.bak
+BenchmarkDotNet.Artifacts/
