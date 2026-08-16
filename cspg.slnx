@@ -5,4 +5,6 @@
   <Project Path="lvl02x03_Inputs/lvl02x03_Inputs.csproj" />
   <Project Path="lvl03x01_DecompiledGem/lvl03x01_DecompiledGem.csproj" />
   <Project Path="lvl04x01_ReusingAVariable/lvl04x01_ReusingAVariable.csproj" />
+  <Project Path="lvl05x01_ThreeTypes/lvl05x01_ThreeTypes.csproj" />
+  <Project Path="lvl05x02_FirstCrash/lvl05x02_FirstCrash.csproj" />
 </Solution>
