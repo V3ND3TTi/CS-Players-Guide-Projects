@@ -7,4 +7,11 @@
   <Project Path="lvl04x01_ReusingAVariable/lvl04x01_ReusingAVariable.csproj" />
   <Project Path="lvl05x01_ThreeTypes/lvl05x01_ThreeTypes.csproj" />
   <Project Path="lvl05x02_FirstCrash/lvl05x02_FirstCrash.csproj" />
+  <Project Path="lvl06x01_Distraction/lvl06x01_Distraction.csproj" />
+  <Project Path="lvl06x02_FarmFields/lvl06x02_FarmFields.csproj" />
+  <Project Path="lvl06x03_Ditches/lvl06x03_Ditches.csproj" />
+  <Project Path="lvl06x04_DominionOfKings/lvl06x04_DominionOfKings.csproj" />
+  <Project Path="lvl06x05_FourSisAndDuckbear/lvl06x05_FourSisAndDuckbear.csproj" />
+  <Project Path="lvl06x06_GuidestonePt1/lvl06x06_GuidestonePt1.csproj" />
+  <Project Path="lvl06x07_GuidestonePt2/lvl06x07_GuidestonePt2.csproj" />
 </Solution>
