@@ -4,4 +4,5 @@
   <Project Path="lvl02x02_MakingsOfAProgrammer/lvl02x02_MakingsOfAProgrammer.csproj" />
   <Project Path="lvl02x03_Inputs/lvl02x03_Inputs.csproj" />
   <Project Path="lvl03x01_DecompiledGem/lvl03x01_DecompiledGem.csproj" />
+  <Project Path="lvl04x01_ReusingAVariable/lvl04x01_ReusingAVariable.csproj" />
 </Solution>
