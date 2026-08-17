@@ -14,4 +14,11 @@
   <Project Path="lvl06x05_FourSisAndDuckbear/lvl06x05_FourSisAndDuckbear.csproj" />
   <Project Path="lvl06x06_GuidestonePt1/lvl06x06_GuidestonePt1.csproj" />
   <Project Path="lvl06x07_GuidestonePt2/lvl06x07_GuidestonePt2.csproj" />
+  <Project Path="lvl07x01_EnclaveGatewayPt1/lvl07x01_EnclaveGatewayPt1.csproj" />
+  <Project Path="lvl07x02_EnclaveGatewayPt2/lvl07x02_EnclaveGatewayPt2.csproj" />
+  <Project Path="lvl07x03_EnclaveGatewayPt3/lvl07x03_EnclaveGatewayPt3.csproj" />
+  <Project Path="lvl07x04_EnclaveGatewayPt4/lvl07x04_EnclaveGatewayPt4.csproj" />
+  <Project Path="lvl07x05_EnclaveGatewayPt5/lvl07x05_EnclaveGatewayPt5.csproj" />
+  <Project Path="lvl07x06_TrapPt1/lvl07x06_TrapPt1.csproj" />
+  <Project Path="lvl07x07_TrapPt2/lvl07x07_TrapPt2.csproj" />
 </Solution>
