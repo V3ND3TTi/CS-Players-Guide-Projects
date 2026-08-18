@@ -21,4 +21,6 @@
   <Project Path="lvl07x05_EnclaveGatewayPt5/lvl07x05_EnclaveGatewayPt5.csproj" />
   <Project Path="lvl07x06_TrapPt1/lvl07x06_TrapPt1.csproj" />
   <Project Path="lvl07x07_TrapPt2/lvl07x07_TrapPt2.csproj" />
+  <Project Path="lvl08x01_Reset/lvl08x01_Reset.csproj" />
+  <Project Path="lvl08x02_MustGoFaster/lvl08x02_MustGoFaster.csproj" />
 </Solution>
