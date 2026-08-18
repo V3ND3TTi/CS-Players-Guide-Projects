@@ -23,4 +23,9 @@
   <Project Path="lvl07x07_TrapPt2/lvl07x07_TrapPt2.csproj" />
   <Project Path="lvl08x01_Reset/lvl08x01_Reset.csproj" />
   <Project Path="lvl08x02_MustGoFaster/lvl08x02_MustGoFaster.csproj" />
+  <Project Path="lvl09x01_CombinationLock/lvl09x01_CombinationLock.csproj" />
+  <Project Path="lvl09x02_InterpolationExperiment/lvl09x02_InterpolationExperiment.csproj" />
+  <Project Path="lvl09x03_TheGrid/lvl09x03_TheGrid.csproj" />
+  <Project Path="lvl09x04_SplittingInput/lvl09x04_SplittingInput.csproj" />
+  <Project Path="lvl09x05_Retrieval/lvl09x05_Retrieval.csproj" />
 </Solution>
