@@ -30,4 +30,6 @@
   <Project Path="lvl09x05_Retrieval/lvl09x05_Retrieval.csproj" />
   <Project Path="lvl10x01_GettingFancy/lvl10x01_GettingFancy.csproj" />
   <Project Path="lvl10x02_CoffeeMachine/lvl10x02_CoffeeMachine.csproj" />
+  <Project Path="lvl11x01_ThePrototype/lvl11x01_ThePrototype.csproj" />
+  <Project Path="lvl11x02_Heartbeats/lvl11x02_Heartbeats.csproj" />
 </Solution>
