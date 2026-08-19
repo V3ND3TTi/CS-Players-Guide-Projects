@@ -28,4 +28,6 @@
   <Project Path="lvl09x03_TheGrid/lvl09x03_TheGrid.csproj" />
   <Project Path="lvl09x04_SplittingInput/lvl09x04_SplittingInput.csproj" />
   <Project Path="lvl09x05_Retrieval/lvl09x05_Retrieval.csproj" />
+  <Project Path="lvl10x01_GettingFancy/lvl10x01_GettingFancy.csproj" />
+  <Project Path="lvl10x02_CoffeeMachine/lvl10x02_CoffeeMachine.csproj" />
 </Solution>
