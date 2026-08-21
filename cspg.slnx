@@ -32,4 +32,10 @@
   <Project Path="lvl10x02_CoffeeMachine/lvl10x02_CoffeeMachine.csproj" />
   <Project Path="lvl11x01_ThePrototype/lvl11x01_ThePrototype.csproj" />
   <Project Path="lvl11x02_Heartbeats/lvl11x02_Heartbeats.csproj" />
+  <Project Path="lvl12x01_ArrayExperiment/lvl12x01_ArrayExperiment.csproj" />
+  <Project Path="lvl12x02_LongArrays/lvl12x02_LongArrays.csproj" />
+  <Project Path="lvl12x03_SimpleArrays/lvl12x03_SimpleArrays.csproj" />
+  <Project Path="lvl12x04_Foreach/lvl12x04_Foreach.csproj" />
+  <Project Path="lvl12x05_AddAndRemove/lvl12x05_AddAndRemove.csproj" />
+  <Project Path="lvl12x06_Map/lvl12x06_Map.csproj" />
 </Solution>
