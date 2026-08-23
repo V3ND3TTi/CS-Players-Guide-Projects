@@ -38,4 +38,9 @@
   <Project Path="lvl12x04_Foreach/lvl12x04_Foreach.csproj" />
   <Project Path="lvl12x05_AddAndRemove/lvl12x05_AddAndRemove.csproj" />
   <Project Path="lvl12x06_Map/lvl12x06_Map.csproj" />
+  <Project Path="lvl13x01_MethodExperiment/lvl13x01_MethodExperiment.csproj" />
+  <Project Path="lvl13x02_PlansForDetonator/lvl13x02_PlansForDetonator.csproj" />
+  <Project Path="lvl13x03_GettingNumbers/lvl13x03_GettingNumbers.csproj" />
+  <Project Path="lvl13x04_CreateDetonator/lvl13x04_CreateDetonator.csproj" />
+  <Project Path="lvl13x05_FastFill/lvl13x05_FastFill.csproj" />
 </Solution>
