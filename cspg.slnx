@@ -43,4 +43,7 @@
   <Project Path="lvl13x03_GettingNumbers/lvl13x03_GettingNumbers.csproj" />
   <Project Path="lvl13x04_CreateDetonator/lvl13x04_CreateDetonator.csproj" />
   <Project Path="lvl13x05_FastFill/lvl13x05_FastFill.csproj" />
+  <Project Path="lvl14x01_StackSmashing/lvl14x01_StackSmashing.csproj" />
+  <Project Path="lvl14x02_TheUmbra/lvl14x02_TheUmbra.csproj" />
+  <Project Path="lvl14x03_UmbraApproaches/lvl14x03_UmbraApproaches.csproj" />
 </Solution>
