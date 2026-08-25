@@ -46,4 +46,8 @@
   <Project Path="lvl14x01_StackSmashing/lvl14x01_StackSmashing.csproj" />
   <Project Path="lvl14x02_TheUmbra/lvl14x02_TheUmbra.csproj" />
   <Project Path="lvl14x03_UmbraApproaches/lvl14x03_UmbraApproaches.csproj" />
+  <Project Path="lvl16x01_SimulasTest/lvl16x01_SimulasTest.csproj" />
+  <Project Path="lvl17x01_SimulasSoup/lvl17x01_SimulasSoup.csproj" />
+  <Project Path="lvl17x02_SoupedUpLabels/lvl17x02_SoupedUpLabels.csproj" />
+  <Project Path="lvl17x03_SimulasRecipes/lvl17x03_SimulasRecipes.csproj" />
 </Solution>
