@@ -50,4 +50,6 @@
   <Project Path="lvl17x01_SimulasSoup/lvl17x01_SimulasSoup.csproj" />
   <Project Path="lvl17x02_SoupedUpLabels/lvl17x02_SoupedUpLabels.csproj" />
   <Project Path="lvl17x03_SimulasRecipes/lvl17x03_SimulasRecipes.csproj" />
+  <Project Path="lvl18x01_VinFletchersArrows/lvl18x01_VinFletchersArrows.csproj" />
+  <Project Path="lvl18x02_ComparingArrows/lvl18x02_ComparingArrows.csproj" />
 </Solution>
