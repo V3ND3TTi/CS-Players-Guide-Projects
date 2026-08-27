@@ -52,4 +52,6 @@
   <Project Path="lvl17x03_SimulasRecipes/lvl17x03_SimulasRecipes.csproj" />
   <Project Path="lvl18x01_VinFletchersArrows/lvl18x01_VinFletchersArrows.csproj" />
   <Project Path="lvl18x02_ComparingArrows/lvl18x02_ComparingArrows.csproj" />
+  <Project Path="lvl19x01_ConstructingArrowsFast/lvl19x01_ConstructingArrowsFast.csproj" />
+  <Project Path="lvl19x02_CustomArrows/lvl19x02_CustomArrows.csproj" />
 </Solution>
