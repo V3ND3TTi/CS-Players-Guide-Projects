@@ -1,42 +1,18 @@
-﻿string arrowheadMenu = """
-                       ------ Arrowhead Menu ------
-                       1 - Broadhead
-                       2 - Field
-                       3 - Blunt
-                       ----------------------------
-                       Please enter a number (1-3):
-                       """;
-Console.Write(arrowheadMenu);
-int arrowheadChoice = int.Parse(Console.ReadLine()!);
-var arrowhead = arrowheadChoice switch
+﻿Arrow[] arrows = new Arrow[30];
+
+for (int i = 0; i < 3; i++)
 {
-    1 => Arrowhead.Broadhead,
-    2 => Arrowhead.Field,
-    3 => Arrowhead.Blunt
-};
+    for (int j = 0; j < 10; j++)
+    {
+        if (i == 0) arrows[j] = Arrow.CreatePracticeArrow();
+        if (i == 1) arrows[j + 10] = Arrow.CreateMarksmanArrow();
+        if (i == 2) arrows[j + 20] = Arrow.CreateEliteArrow();
+    }
+}
 
-string fletchingMenu = """
-                       ------ Fletching Menu ------
-                       1 - Goose Feathers
-                       2 - Turkey Feathers
-                       3 - Chicken Feathers
-                       ----------------------------
-                       Please enter a number (1-3):
-                       """;
-Console.Write(fletchingMenu);
-int fletchingChoice = int.Parse(Console.ReadLine()!);
-var fletching = fletchingChoice switch
-{
-    1 => Fletching.Goose,
-    2 => Fletching.Turkey,
-    3 => Fletching.Chicken
-};
-
-Console.Write("Please enter your desired shaft weight (30-50): ");
-float weightChoice = float.Parse(Console.ReadLine()!);
-
-var customArrow = new Arrow(arrowhead, fletching, weightChoice);
-customArrow.DisplayArrow();
+arrows[0].DisplayArrow();
+arrows[10].DisplayArrow();
+arrows[20].DisplayArrow();
 
 public class Arrow
 {
@@ -104,6 +80,10 @@ public class Arrow
                                """;
         Console.WriteLine(arrowDisplay);
     }
+
+    public static Arrow CreatePracticeArrow() => new Arrow(Arrowhead.Blunt, Fletching.Turkey, 30f);
+    public static Arrow CreateMarksmanArrow() => new Arrow(Arrowhead.Field, Fletching.Goose, 35f);
+    public static Arrow CreateEliteArrow() => new Arrow(Arrowhead.Broadhead, Fletching.Goose, 45f);
 }
 
 public enum Arrowhead { Broadhead, Field, Blunt }
