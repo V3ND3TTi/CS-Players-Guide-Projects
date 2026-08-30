@@ -57,4 +57,5 @@
   <Project Path="lvl20x01_VinsTrouble/lvl20x01_VinsTrouble.csproj" />
   <Project Path="lvl22x01_PropertiesOfArrows/lvl22x01_PropertiesOfArrows.csproj" />
   <Project Path="lvl23x01_ArrowFactories/lvl23x01_ArrowFactories.csproj" />
+  <Project Path="lvl25x01_Minesweeper/lvl25x01_Minesweeper.csproj" />
 </Solution>
