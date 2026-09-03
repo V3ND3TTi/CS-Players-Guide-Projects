@@ -59,4 +59,5 @@
   <Project Path="lvl23x01_ArrowFactories/lvl23x01_ArrowFactories.csproj" />
   <Project Path="lvl25x01_Minesweeper/lvl25x01_Minesweeper.csproj" />
   <Project Path="lvl26x01_Armored/lvl26x01_Armored.csproj" />
+  <Project Path="lvl26x02_Dueling/lvl26x02_Dueling.csproj" />
 </Solution>
