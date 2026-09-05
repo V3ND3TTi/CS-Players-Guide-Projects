@@ -61,4 +61,5 @@
   <Project Path="lvl26x01_Armored/lvl26x01_Armored.csproj" />
   <Project Path="lvl26x02_Dueling/lvl26x02_Dueling.csproj" />
   <Project Path="lvl26x03_Barriers/lvl26x03_Barriers.csproj" />
+  <Project Path="lvl27x01_Namespaces/lvl27x01_Namespaces.csproj" />
 </Solution>
