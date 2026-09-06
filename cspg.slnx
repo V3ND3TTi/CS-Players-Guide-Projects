@@ -62,4 +62,5 @@
   <Project Path="lvl26x02_Dueling/lvl26x02_Dueling.csproj" />
   <Project Path="lvl26x03_Barriers/lvl26x03_Barriers.csproj" />
   <Project Path="lvl27x01_Namespaces/lvl27x01_Namespaces.csproj" />
+  <Project Path="lvl28x01_Cookies/lvl28x01_Cookies.csproj" />
 </Solution>
