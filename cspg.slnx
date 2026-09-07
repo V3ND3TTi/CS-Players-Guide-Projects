@@ -63,4 +63,6 @@
   <Project Path="lvl26x03_Barriers/lvl26x03_Barriers.csproj" />
   <Project Path="lvl27x01_Namespaces/lvl27x01_Namespaces.csproj" />
   <Project Path="lvl28x01_Cookies/lvl28x01_Cookies.csproj" />
+  <Project Path="lvl29x01_LabelingFood/lvl29x01_LabelingFood.csproj" />
+  <Project Path="lvl29x02_SideEffects/lvl29x02_SideEffects.csproj" />
 </Solution>
