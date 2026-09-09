@@ -69,4 +69,5 @@
   <Project Path="lvl31x01_RoomCoordinates/lvl31x01_RoomCoordinates.csproj" />
   <Project Path="lvl32x01_WarPrep/lvl32x01_WarPrep.csproj" />
   <Project Path="lvl34x01_Vircon/lvl34x01_Vircon.csproj" />
+  <Project Path="lvl34x02_Dessert/lvl34x02_Dessert.csproj" />
 </Solution>
