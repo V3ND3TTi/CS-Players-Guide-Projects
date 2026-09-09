@@ -68,4 +68,5 @@
   <Project Path="lvl30x01_Binarium/lvl30x01_Binarium.csproj" />
   <Project Path="lvl31x01_RoomCoordinates/lvl31x01_RoomCoordinates.csproj" />
   <Project Path="lvl32x01_WarPrep/lvl32x01_WarPrep.csproj" />
+  <Project Path="lvl34x01_Vircon/lvl34x01_Vircon.csproj" />
 </Solution>
